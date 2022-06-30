@@ -1,1 +1,2 @@
 # TestInputSystem
+InputSytemを覚えるためのリポジトリです
