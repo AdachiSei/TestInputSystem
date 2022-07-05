@@ -7,7 +7,7 @@ public class Player : MonoBehaviour
 {
     Rigidbody2D _rb;
     SpriteRenderer _sp;
-    float _moveSpeed = 5;
+    [SerializeField]float _moveSpeed = 5;
     float _lateMove = 2;
     /// <summary>¸–§‘€ì‚Ìƒtƒ‰ƒO</summary>
     bool _isLateMode = default;

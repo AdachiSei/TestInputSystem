@@ -273,6 +273,17 @@
                     "action": "IsLateMove",
                     "isComposite": false,
                     "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "64542e2f-08d7-4f8b-97bf-d1419a99e0a1",
+                    "path": "<Gamepad>/buttonEast",
+                    "interactions": "SlowTap",
+                    "processors": "",
+                    "groups": "Gamepad",
+                    "action": "IsLateMove",
+                    "isComposite": false,
+                    "isPartOfComposite": false
                 }
             ]
         },
